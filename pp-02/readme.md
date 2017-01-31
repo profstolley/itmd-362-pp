@@ -1,4 +1,4 @@
-# Production Problem 2: Clean Up and Organize Your Devices
+﻿# Production Problem 2: Clean Up and Organize Your Devices
 
 When you show off work on your own computer to someone else (a boss, a client, a colleague, a
 professor), it’s not unlike inviting someone over to where you live. Most of us need to do some
@@ -65,6 +65,7 @@ screenshot, then copy it to this directory (`pp-02`) and add and commit it to th
 Then, also list here the keyboard commands to switch between your different virtual desktops (on
 some operating systems, you might be able to customize the shortcuts to your own liking):
 
+alt + tab
 
 4. Set up a distraction-free browser.
 
