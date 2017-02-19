@@ -177,3 +177,22 @@ textarea {
 }
 
 /* end normalize.css form styles from necolas*/
+/*********************************
+/*Form styles*/
+html{
+	font-size: 1.25em;
+	line-height: 1.25em;
+	font-family: "Times New Roman", sans-serif;
+	background-color: #af1234
+}
+
+h1{
+	font-size: 2.5em;
+	font-style: bold;
+	padding: 1.20em 0 1.20em 0.5em;
+}
+
+li{
+	font-family: Helvetica, sans-serif;
+	padding: 0.5em;
+}
